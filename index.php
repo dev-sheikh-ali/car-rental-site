@@ -46,7 +46,7 @@ error_reporting(0);
   <div class="container">
     <div class="div_zindex">
       <div class="row">
-        <div class="col-md-5 col-md-push-7">
+        <div class="col-md-6 col-md-push-9">
           <div class="banner_content">
             <h1>Find the right car for you.</h1>
             <p>We have alot of cars for you to choose. </p>

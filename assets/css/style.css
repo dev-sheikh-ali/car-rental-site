@@ -1,5 +1,9 @@
 @charset "utf-8";
 
+/*
+
+Version:1.0
+*/
 
 /*===========================
  =  Table of CSS
@@ -665,7 +669,7 @@ table thead th, table thead td {
 	background:#eeeeee;
 }
 .primary-bg {
-  background: #0e0d0d;
+  background: #fa2837;
   color:#fff;
 }
 .section-padding {
@@ -759,7 +763,7 @@ table thead th, table thead td {
 ===========================*/
 
 .default-header {
-  background: rgb(121, 118, 118) none repeat scroll 0 0;
+  background: #fff none repeat scroll 0 0;
   box-shadow: 0 5px 8px rgba(0, 0, 0, 0.2);
   padding: 30px 0;
   transition-duration:0.3s;
