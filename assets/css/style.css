@@ -1,10 +1,5 @@
 @charset "utf-8";
 
-/*
-Theme Name: CarForYou - Responsive Car Dealer HTML5 Template.
-Author: WMD Team
-Version:1.0
-*/
 
 /*===========================
  =  Table of CSS
@@ -670,7 +665,7 @@ table thead th, table thead td {
 	background:#eeeeee;
 }
 .primary-bg {
-  background: #fa2837;
+  background: #0e0d0d;
   color:#fff;
 }
 .section-padding {
@@ -764,7 +759,7 @@ table thead th, table thead td {
 ===========================*/
 
 .default-header {
-  background: #fff none repeat scroll 0 0;
+  background: rgb(121, 118, 118) none repeat scroll 0 0;
   box-shadow: 0 5px 8px rgba(0, 0, 0, 0.2);
   padding: 30px 0;
   transition-duration:0.3s;
@@ -1062,7 +1057,8 @@ nav.navbar {
 
 /*-------------------------
 	3.1. Banner
--------------------------------*-section {
+-------------------------------*/
+.banner-section {
   background-image: url("../images/banner-image.jpg");
   background-position: center center;
   background-repeat: no-repeat;
