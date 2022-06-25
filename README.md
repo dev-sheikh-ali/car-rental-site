@@ -18,7 +18,7 @@ create a db named `carrental` and import the sql file in your myphpadmin
 
 **Client**
 
-       **register another user and login**
+       register another user and login
 
 ## 3.URL links
 
