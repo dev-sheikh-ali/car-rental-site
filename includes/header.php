@@ -4,7 +4,7 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-3 col-md-2">
-          <div class="logo"> <a href="index.php"><h4>car-rental<br> site</h4></a> </div>
+        <div class="logo"> <a href="index.php"><img src="assets/images/logg.png" alt="image"/></a> </div>
         </div>
         <div class="col-sm-9 col-md-10">
           <div class="header_info">
@@ -82,13 +82,13 @@ foreach($results as $result)
             </li>
           </ul>
         </div>
-        <div class="header_search">
+        <!-- <div class="header_search">
           <div id="search_toggle"><i class="fa fa-search" aria-hidden="true"></i></div>
           <form action="search.php" method="post" id="header-search-form">
             <input type="text" placeholder="Search..." name="searchdata" class="form-control" required="true">
             <button type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
           </form>
-        </div>
+        </div> -->
       </div>
       <div class="collapse navbar-collapse" id="navigation">
         <ul class="nav navbar-nav">

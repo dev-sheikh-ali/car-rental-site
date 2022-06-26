@@ -122,7 +122,7 @@ foreach($results as $result)
       <div class="col-lg-3 col-xs-6 col-sm-3">
         <div class="fun-facts-m">
           <div class="cell">
-            <h2><i class="fa fa-calendar" aria-hidden="true"></i>40+</h2>
+            <h2><i class="fa fa-calendar" aria-hidden="true"></i>10+</h2>
             <p>Years In Business</p>
           </div>
         </div>
@@ -139,7 +139,7 @@ foreach($results as $result)
         <div class="fun-facts-m">
           <div class="cell">
             <h2><i class="fa fa-car" aria-hidden="true"></i>1000+</h2>
-            <p>Used Cars For Sale</p>
+            <p>Cars For Sale</p>
           </div>
         </div>
       </div>

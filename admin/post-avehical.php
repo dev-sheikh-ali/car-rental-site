@@ -198,7 +198,7 @@ foreach($results as $result)
 
 <option value="Petrol">Petrol</option>
 <option value="Diesel">Diesel</option>
-<option value="CNG">CNG</option>
+<option value="electric">electric</option>
 </select>
 </div>
 </div>
