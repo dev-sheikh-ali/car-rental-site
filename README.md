@@ -7,7 +7,7 @@ create a db named `carrental` and import the sql file in your myphpadmin
 
 ## 1. To download run
 
-    git clone https://github.com/dev-sheikh-ali/carrental.git
+    git clone https://github.com/dev-sheikh-ali/car-rental-site.git
 
 ## 2. LOGIN DETAILS
 
