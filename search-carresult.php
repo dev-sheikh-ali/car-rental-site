@@ -150,7 +150,7 @@ foreach($results as $result)
               <option>Select Fuel Type</option>
 <option value="Petrol">Petrol</option>
 <option value="Diesel">Diesel</option>
-<option value="CNG">CNG</option>
+<option value="electric">electric</option>
                 </select>
               </div>
              
